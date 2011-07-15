@@ -1,5 +1,4 @@
-SPEC = Gem::Specification.new do |s|
-
+Gem::Specification.new do |s|
   # Get the facts.
   s.name             = "sinatra-reloader"
   s.version          = "0.5.0"
